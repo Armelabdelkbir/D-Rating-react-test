@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to this test
 
 You can read this for 2 reasons : you applied for a tech job at D-Rating, or you found this project on GitHub ...
@@ -15,8 +16,13 @@ Keep in mind : Everything is a test, the way you code, the way you send your sou
  - Make the new page accessible from the landing page through a link
  - This new page prints a list of elements you get from the test-server project. Use the endpoint returning objects around given coordinates. A simple list, do not use a map to render objects.
 =======
+=======
+>>>>>>> 5d37f4599224ba56bcc15fb33a98c5f908e0735e
 # D-Rating-react-test
 npm i 
 
 npm start 
+<<<<<<< HEAD
+>>>>>>> 5d37f4599224ba56bcc15fb33a98c5f908e0735e
+=======
 >>>>>>> 5d37f4599224ba56bcc15fb33a98c5f908e0735e
